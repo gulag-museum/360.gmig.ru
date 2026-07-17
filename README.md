@@ -15,12 +15,12 @@
 
 | Tour Name / Название тура | Description / Описание | URL |
 | :--- | :--- | :--- |
-| **Dneprovsky Mine** | Remote mine in Kolyma | [360-dneprovsky.gmig.ru](https://360-dneprovsky.gmig.ru) |
-| **USVITL Prison** | Investigation prison in Magadan | [360-prisonofusvitl.gmig.ru](https://360-prisonofusvitl.gmig.ru) |
-| **Chaunlag** | Northernmost camp in Chukotka | [chaunlag.gmig.ru](https://chaunlag.gmig.ru) |
-| **Doctors' Plot** | Exhibition about the late Stalinist trial | [delo-vrachey.360.gmig.ru](https://delo-vrachey.360.gmig.ru) |
-| **Main Exhibition** | GULAG Museum permanent display | [expo.360.gmig.ru](https://expo.360.gmig.ru) |
-| **Earth 37** | Mass burial sites research | [zemlya-37.360.gmig.ru](https://zemlya-37.360.gmig.ru) |
+| **Dneprovsky Mine** | Remote mine in Kolyma | [dneprovsky.360.gmig.gulagmemory.org](https://dneprovsky.360.gmig.gulagmemory.org) |
+| **USVITL Prison** | Investigation prison in Magadan | [prisonofusvitl.360.gmig.gulagmemory.org](https://prisonofusvitl.360.gmig.gulagmemory.org) |
+| **Chaunlag** | Northernmost camp in Chukotka | [chaunlag.360.gmig.gulagmemory.org](https://chaunlag.360.gmig.gulagmemory.org) |
+| **Doctors' Plot** | Exhibition about the late Stalinist trial | [delo-vrachey.360.gmig.gulagmemory.org](https://delo-vrachey.360.gmig.gulagmemory.org) |
+| **Main Exhibition** | GULAG Museum permanent display | [expo.360.gmig.gulagmemory.org](https://expo.360.gmig.gulagmemory.org) |
+| **Earth 37** | Mass burial sites research | [zemlya-37.360.gmig.gulagmemory.org](https://zemlya-37.360.gmig.gulagmemory.org) |
 
 ---
 
@@ -36,7 +36,7 @@
 ## 🛠 Technical Details / Технические детали
 
 * **Platform:** Static HTML5 / CSS3
-* **Domain:** [360.gmig.ru](https://360.gmig.ru)
+* **Domain:** [360.gmig.gulagmemory.org](https://360.gmig.gulagmemory.org)
 
 ---
 
