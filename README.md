@@ -1,49 +1,56 @@
-# 360 Virtual Tours Hub | Хаб виртуальных туров 360
-**GULAG History Museum digital heritage | Цифровое наследие Музея истории ГУЛАГа**
+<img src=".github/cover.jpg" alt="Виртуальные туры 360°" width="100%">
+
+# Виртуальные туры 360°
+
+*360° Virtual Tours*
+
+Каталог панорамных туров и VR-фильмов Музея истории ГУЛАГа: экспозиция музея, лагеря Колымы и Чукотки, выставки.
+
+**[Открыть архив →](https://360.gmig.gulagmemory.org)** · [Все сохранённые сайты](https://gulagmemory.org)
+
+| | |
+|:--|:--|
+| **Тип** | Каталог виртуальных туров |
+| **Годы** | туры 2015–2024 |
+| **Адрес архива** | [360.gmig.gulagmemory.org](https://360.gmig.gulagmemory.org) |
+| **Снимок сделан** | февраль 2026 · каталог собран при архивации |
+
+## О проекте
+
+Экспедиции музея снимали сохранившиеся лагерные объекты в труднодоступных местах — на Колыме (2014, 2020) и Чукотке (2015), — а в Москве в формате 360° снимались выставки и сам музей. Этот каталог собран при архивации, чтобы свести все туры и VR-видео в одном месте.
+
+| Тур | Что внутри | Репозиторий |
+|:--|:--|:--|
+| [Постоянная экспозиция](https://expo.360.gmig.gulagmemory.org) | Залы Музея истории ГУЛАГа в Москве | — |
+| [Рудник «Днепровский»](https://dneprovsky.360.gmig.gulagmemory.org) | Один из наиболее сохранившихся лагерных объектов на Колыме | — |
+| [Штрафной изолятор УСВИТЛа](https://prisonofusvitl.360.gmig.gulagmemory.org) | Здание лагерной тюрьмы в Магадане | [prisonofUSVITL.360.gmig.ru](https://github.com/gulag-museum/prisonofUSVITL.360.gmig.ru) |
+| [Чаунлаг](https://chaunlag.360.gmig.gulagmemory.org) | Урановые лагеря «Северный» и «Восточный» на Чукотке | [chaunlag.360.gmig.ru](https://github.com/gulag-museum/chaunlag.360.gmig.ru) |
+| [Дело врачей](https://delo-vrachey.360.gmig.gulagmemory.org) | Выставка об одной из последних репрессивных кампаний сталинской эпохи | [delo-vrachey.360.gmig.ru](https://github.com/gulag-museum/delo-vrachey.360.gmig.ru) |
+| [Земля 37](https://zemlya-37.360.gmig.gulagmemory.org) | Выставка о местах массовых захоронений Большого террора | [zemlya-37.360.gmig.ru](https://github.com/gulag-museum/zemlya-37.360.gmig.ru) |
+
+**VR-фильмы на YouTube:** [«Дом на Самотёке»](https://www.youtube.com/watch?v=VurNuLEMEuI) — прогулка по зданию музея · [«Магадан, экспедиция 2019»](https://www.youtube.com/watch?v=1zwCDsIXF8Y) — от геологов до лагерей Дальстроя · [«Бывший лагерь „Днепровский“»](https://www.youtube.com/watch?v=cxQ1qRiM-dk) — по руинам лагеря с директором музея.
+
+## Что сохранено
+
+- страница-каталог со ссылками на все туры и видео.
+
+## Что не работает
+
+- туры «Постоянная экспозиция» и «Днепровский» размещены на отдельном сервере, а не на GitHub.
 
 ---
 
-## 🌐 Project Overview / О проекте
+Репозиторий входит в [реестр сохранённых сайтов Музея истории ГУЛАГа](https://gulagmemory.org) — некоммерческий архив цифрового наследия, созданный в исследовательских и образовательных целях. Права на тексты, фотографии, видео и другие материалы принадлежат их авторам и правообладателям.
 
-**EN:** This repository is the central hub for all 3D virtual tours and panoramic projects created by the GULAG History Museum. It provides a unified entry point for exploring memorial landscapes, museum exhibitions, and historical sites in 360° format.
+<details>
+<summary><b>English</b></summary>
 
-**RU:** Этот репозиторий является центральным узлом (хабом) для всех 3D-туров и панорамных проектов, созданных Музеем истории ГУЛАГа. Здесь собраны ссылки на интерактивные исследования памятных мест, музейных экспозиций и лагерных объектов в формате 360°.
+### 360° Virtual Tours
 
----
+Catalogue of the GULAG History Museum's 360° panoramic tours and VR films: the museum's permanent exhibition, the Dneprovsky mine in Kolyma, the USVITL punishment block in Magadan, Chaunlag uranium camps in Chukotka, and the Doctors' Plot and Earth 37 exhibitions.
 
-## 📍 Included Tours / Список туров
+**Type:** Virtual tour catalogue · **Archive:** [360.gmig.gulagmemory.org](https://360.gmig.gulagmemory.org)
 
-| Tour Name / Название тура | Description / Описание | URL |
-| :--- | :--- | :--- |
-| **Dneprovsky Mine** | Remote mine in Kolyma | [dneprovsky.360.gmig.gulagmemory.org](https://dneprovsky.360.gmig.gulagmemory.org) |
-| **USVITL Prison** | Investigation prison in Magadan | [prisonofusvitl.360.gmig.gulagmemory.org](https://prisonofusvitl.360.gmig.gulagmemory.org) |
-| **Chaunlag** | Northernmost camp in Chukotka | [chaunlag.360.gmig.gulagmemory.org](https://chaunlag.360.gmig.gulagmemory.org) |
-| **Doctors' Plot** | Exhibition about the late Stalinist trial | [delo-vrachey.360.gmig.gulagmemory.org](https://delo-vrachey.360.gmig.gulagmemory.org) |
-| **Main Exhibition** | GULAG Museum permanent display | [expo.360.gmig.gulagmemory.org](https://expo.360.gmig.gulagmemory.org) |
-| **Earth 37** | Mass burial sites research | [zemlya-37.360.gmig.gulagmemory.org](https://zemlya-37.360.gmig.gulagmemory.org) |
+Part of the [registry of preserved GULAG History Museum websites](https://gulagmemory.org) — a non-commercial digital heritage archive for research and education. All texts, photographs, video and other materials remain the property of their authors and rights holders.
 
----
-
-## 🎥 Immersive Video (360°) / Иммерсивные видео
-
-| Video Title / Название видео | Description / Описание | Link |
-| :--- | :--- | :--- |
-| **House on Samoteka** | VR tour of the Museum building | [Watch](https://www.youtube.com/watch?v=VurNuLEMEuI) |
-| **Magadan Expedition** | History of Kolyma region | [Watch](https://www.youtube.com/watch?v=1zwCDsIXF8Y) |
-| **Dneprovsky Camp** | VR film about the prison camp ruins | [Watch](https://www.youtube.com/watch?v=cxQ1qRiM-dk) |
----
-
-## 🛠 Technical Details / Технические детали
-
-* **Platform:** Static HTML5 / CSS3
-* **Domain:** [360.gmig.gulagmemory.org](https://360.gmig.gulagmemory.org)
-
----
-
-## ⚖️ Disclaimer / Правовая информация
-This hub is maintained for historical, educational, and research purposes. All visual materials and panoramas are property of the GULAG History Museum.
-
-Этот архив поддерживается в исторических, образовательных и исследовательских целях. Все визуальные материалы и панорамы являются собственностью Музея истории ГУЛАГа.
-
----
-*Preserved by GULAG History Museum*
+</details>
